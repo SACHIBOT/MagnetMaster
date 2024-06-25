@@ -41,7 +41,9 @@ Once processed, your torrent will be ready for download automatically.
 
 ![Step 4 Image](images/step4.png)
 
-**Important:** Make sure to turn off your AntiMalware software to ensure smooth downloading.
+**Important:**
+- Make sure to turn off your AntiMalware software to ensure smooth downloading.
+- If you enter an invalid torrent or magnet link, or if our site encounters an issue, an error message will be displayed.
 
 ## About
 
