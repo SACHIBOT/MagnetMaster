@@ -23,9 +23,6 @@ MagnetMaster is your go-to platform for effortless torrent downloads. Whether it
 
 Visit [MagnetMaster](https://magnet-master.sachibot.xyz/) to begin.
 
-<p align="center">
-  <img src="images/step1.png" alt="Step 1 Image" />
-</p>
 
 ### Step 2: Enter Magnet or Torrent URL
 
