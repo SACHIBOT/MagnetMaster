@@ -2,7 +2,9 @@
 
 MagnetMaster is your go-to platform for effortless torrent downloads. Whether it's magnets or torrents, we ensure fast, secure, and ad-free processing.
 
-![Web Ui Image](images/webui.png)
+<p align="center">
+  <img src="images/webui.png" alt="Web Ui Image" />
+</p>
 
 ## Table of Contents
 
@@ -21,25 +23,33 @@ MagnetMaster is your go-to platform for effortless torrent downloads. Whether it
 
 Visit [MagnetMaster](https://magnet-master.sachibot.xyz/) to begin.
 
-![Step 1 Image](images/step1.png)
+<p align="center">
+  <img src="images/step1.png" alt="Step 1 Image" />
+</p>
 
 ### Step 2: Enter Magnet or Torrent URL
 
 Enter your magnet link or torrent URL in the input field and click the 'Download' button.
 
-![Step 2 Image](images/step2.png)
+<p align="center">
+  <img src="images/step2.png" alt="Step 2 Image" />
+</p>
 
 ### Step 3: Start the Download Process
 
 Your torrent processing will start automatically. Please wait a few seconds.
 
-![Step 3 Image](images/step3.png)
+<p align="center">
+  <img src="images/step3.png" alt="Step 3 Image" />
+</p>
 
 ### Step 4: Download Your Processed Torrent
 
 Once processed, your torrent will be ready for download automatically.
 
-![Step 4 Image](images/step4.png)
+<p align="center">
+  <img src="images/step4.png" alt="Step 4 Image" />
+</p>
 
 **Important:**
 - Make sure to turn off your AntiMalware software to ensure smooth downloading.
