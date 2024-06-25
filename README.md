@@ -42,7 +42,7 @@ Your torrent processing will start automatically. Please wait a few seconds.
 
 ### Step 4: Download Your Processed Torrent
 
-Once processed, your torrent will be ready for download automatically.
+Once processed, your torrent will be download automatically.
 
 <p align="center">
   <img src="images/step4.png" alt="Step 4 Image" />
